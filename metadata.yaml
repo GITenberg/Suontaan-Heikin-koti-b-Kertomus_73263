@@ -1,0 +1,30 @@
+_repo: Suontaan-Heikin-koti-b-Kertomus_73263
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Koskimaa, Juho
+    birthdate: 1891
+    deathdate: 1926
+    gutenberg_agent_id: '46158'
+    url: http://www.gutenberg.org/2009/agents/46158
+    wikipedia: https://fi.wikipedia.org/wiki/Juho_Koskimaa
+description: ''
+gutenberg_issued: '2024-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73263'
+language: fi
+pgterms:marc905: 20240317112659koskimaa
+pgterms:marc906: '1925'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Suontaan Heikin koti : $b Kertomus'
+url: http://www.gutenberg.org/ebooks/73263
